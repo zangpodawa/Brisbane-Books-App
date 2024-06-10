@@ -1,4 +1,4 @@
-# Brisbane Book App is a book store system built using Node.js, ejs, HTML & CSS, JavaScript, MongoDB & Mongoose, Stripe Payment using MVC pattern.
+# Brisbane Books App is a book store system built using Node.js, ejs, HTML & CSS, JavaScript, MongoDB & Mongoose, Stripe Payment using MVC pattern.
 ![Screenshot 2024-06-10 at 10 21 16 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/d883a09f-0083-4ef2-b12a-f6089008134f)
 ![Screenshot 2024-06-10 at 10 21 37 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/bc1f18ea-4452-4add-9ce1-bbdae1d267b3)
 ![Screenshot 2024-06-10 at 10 21 56 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/267280e9-4206-457e-9438-df21f9914e7e)
@@ -7,7 +7,6 @@
 ![Screenshot 2024-06-10 at 10 22 50 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/423ae5c2-1356-45c2-9e3c-cc1c47ecfe5d)
 ![Screenshot 2024-06-10 at 10 23 25 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/532e65d9-cd07-4897-828c-e57bddec03b1)
 ![Screenshot 2024-06-10 at 10 23 48 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/bd89db09-f3df-4cbf-9fe0-4ea467628f06)
-![Screenshot 2024-06-10 at 10 24 31 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/79b82f8d-7908-44d8-a1cd-04e169519140)
 ![Screenshot 2024-06-10 at 10 27 54 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/68419f4b-2c49-4a9d-b2c5-563a9accea74)
 ![Screenshot 2024-06-10 at 10 28 06 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/1e1b39e6-2aa8-47c6-8b93-3e5c7d88232f)
 ![Screenshot 2024-06-10 at 10 28 31 AM](https://github.com/zangpodawa/Brisbane-Books-App/assets/32727869/0ea9553e-fa08-4af2-93ae-a2ac19dc1375)
